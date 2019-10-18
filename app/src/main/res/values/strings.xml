@@ -2,7 +2,7 @@
     <string name="app_name">Starbuuz</string>
     <string name="starbuzz_logo">Starbuzz logo</string>
     <string-array name="options">
-        <item>Drink</item>
+        <item>Drinks</item>
         <item>Food</item>
         <item>Stores</item>
     </string-array>
